@@ -34,6 +34,10 @@ $(document).on('click', '#add-train-btn', function(event){
         frequency: freq,
 
     });
+
+    alert("Train successfully added");
+
+     return false;
 })
 
 //when a child is added in firebase
