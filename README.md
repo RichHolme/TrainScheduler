@@ -15,3 +15,5 @@ Notes:
 - On page load and submit click the app calculates current time relative to the page refresh.
 - All trains will display correct arrival / minutes away time relative to refresh.
 
+Site: https://richholme.github.io/TrainScheduler/
+
